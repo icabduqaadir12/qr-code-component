@@ -15,7 +15,7 @@ body {
 }
 
 main {
-    max-width: 320px;
+    max-width: min(90%,320px);
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
     width: 100%;
